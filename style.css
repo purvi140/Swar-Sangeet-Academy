@@ -1,0 +1,129 @@
+body {
+     margin: 0;
+     font-family: Arial, sans-serif;
+     background-color: #fff8ef;
+     color: #333;
+ }
+
+header {
+        background: linear-gradient(90deg, #8e2de2, #e64a7b);
+        color: white;
+        text-align: center;
+        padding: 25px;
+  }
+
+nav {
+    background-color: #40205f;
+    text-align: center;
+    padding: 15px;
+ }
+
+nav a {
+      color: white;
+      text-decoration: none;
+      margin: 15px;
+      font-weight: bold;
+ }
+
+nav a:hover {
+     color: yellow;
+ }
+
+.hero {
+      text-align: center;
+      padding: 70px 20px;
+      background-color: #ffe0c2;
+}
+
+.hero h2 {
+     color: #8e2de2;
+     font-size: 30px;
+ }
+
+.btn {
+      display: inline-block;
+      background-color: #8e2de2;
+      color: white;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 20px;
+  }
+
+.submit-btn {
+     display: block;
+     width: 100%;
+     padding: 15px;
+     margin-top: 25px;
+     margin-bottom: 40px;
+     background-color: #6c63ff;
+     color: white;
+     font-size: 20px;
+     border: none;
+     border-radius: 8px;
+     cursor: pointer;
+ }
+
+.submit-btn:hover {
+     backgorund-color: #483dbe;
+ }
+    
+
+.content {
+     text-align: center;
+     padding: 30px;
+  }
+
+.content h2 {
+     color: #8e2de2;
+ }
+
+.card {
+       background-color: white;
+       padding: 20px;
+       margin: 15px auto;
+       max-width: 400px;
+       border-radius: 12px;
+       box-shadow: 0 3px 10px #ccc;
+ }
+
+.card:hover {
+        background-color: #ffe0c2;
+}
+
+form {
+      max-width: 400px;
+      margin: auto;
+      text-align: left;
+ }
+
+input, select, textarea {
+       width: 100%;
+       padding: 10px;
+       margin: 8px 0 15px;
+       box-sizing: 1px solid #aaa;
+       border-radius: 5px;
+ }
+
+button {
+        background-color: #8e2de2;
+        color: white;
+        padding: 12px 25px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+  }
+
+footer {
+        background-color: #40205f;
+        color: white;
+        text-align: center;
+        padding: 15px;
+        margin-top: 25px;
+  }
+
+
+
+
+
+
+       
